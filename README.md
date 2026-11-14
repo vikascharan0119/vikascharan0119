@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Vikas
 
-<!--
-**vikascharan0119/vikascharan0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer / SRE with 4+ years of experience on AWS and Azure.
 
-Here are some ideas to get you started:
+- **Now:** DevOps Engineer / SRE at PNC. AWS, EKS, Terraform, ArgoCD, Prometheus and Grafana, and Azure DevOps pipelines for 30+ microservices.
+- **Before:** DevOps Engineer at Microsoft. Azure, AKS, Jenkins, GitLab CI, Ansible, ELK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+An internal developer platform on AWS and Kubernetes. A developer adds one small file, and the platform sets up the pipeline, deployment, SLOs and alerts for their service. The repo is coming soon.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/vikascharan0119)
